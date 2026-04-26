@@ -48,4 +48,4 @@ The work here tries to reflect that. It's not the most comprehensive reference, 
 
 ## Contact
 
-[GitHub Issues on any of these repos work. I'm happy to discuss, take suggestions, or hear what's missing.]
+GitHub Issues on any of these repos work. I'm happy to discuss, take suggestions, or hear what's missing.
