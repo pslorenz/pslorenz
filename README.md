@@ -1,6 +1,6 @@
 # Hi, I'm Steven
 
-I work in security for the SMB and MSP space, in my opinion a segment of the market that gets sold a tool for every problem and almost rarely creates a coherent program.
+I work in security for the SMB and MSP space, in my opinion a segment of the market that gets sold a tool for every problem (and even some made up problems) and almost rarely creates a coherent program.
 
 Most security guidance assumes enterprise budgets, dedicated SOC teams, and mature governance. The organizations I work with typically don't have most of those. The projects in this profile are my attempt to translate good security practice into something that's actually achievable for small organizations, and also for the MSPs trying to deliver real outcomes for them without burning out.
 
@@ -16,6 +16,7 @@ The repos collectively form a reference program for SMB and MSP security, organi
 - [smb-security-reference-architecture](https://github.com/pslorenz/smb-security-reference-architecture) - A reference architecture for SMB security programs. The thing I wish existed when I started.
 
 **Govern - the policies and controls that anchor the program**
+- [Security-Policy-Templates](https://github.com/pslorenz/security-policy-templates)- A right-sized set of security policies for SMBs. Plain language, opinionated defaults, mapped to CIS. Designed to be adopted, not filed away for checkmarks.
 - [Operationalizing-CIS-for-the-SMB-and-MSP](https://github.com/pslorenz/Operationalizing-CIS-for-the-SMB-and-MSP) - Course material on applying CIS Controls and device hardening in an SMB context, without pretending you have an enterprise team to do it. (Currently being re-written)
 
 **Implement  the hands-on hardening work**
@@ -31,7 +32,7 @@ The repos collectively form a reference program for SMB and MSP security, organi
 
 Active work, in roughly the order it'll land:
 
-- **Starter Policy Pack** - A right-sized set of security policies for SMBs. Plain language, opinionated defaults, mapped to CIS. Designed to be adopted, not filed away for checkmarks.
+
 - **Hardening Essentials Tool** - A simpler, higher-level entry point to the hardening work for operators who need the 80/20 version fast.
 - **AD Security Assessment Toolkit** - Pragmatic Active Directory assessment built for MSP workflows, with output a tech can actually hand to a customer.
 - **M365 Security Assessment Toolkit** - Same idea, for Microsoft 365 environments. Sized for SMB realities, not federal compliance regimes.
@@ -49,3 +50,12 @@ The work here tries to reflect that. It's not the most comprehensive reference, 
 ## Contact
 
 GitHub Issues on any of these repos work. I'm happy to discuss, take suggestions, or hear what's missing.
+
+---
+
+## Support
+
+This work is free because I believe the SMB security space needs better support, but if something here saved you time on a client engagement or your own environment, you can buy me a coffee:
+
+[☕ buymeacoffee.com/pslorenz](https://buymeacoffee.com/pslorenz)
+
